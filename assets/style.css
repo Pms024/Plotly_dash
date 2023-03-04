@@ -1,0 +1,54 @@
+/* Body style */
+body {
+  margin: 0;
+  padding: 0;
+
+}
+
+/* Header style */
+h1 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+  background-color: rgb(168, 85, 211);
+  color: white;
+  height: 75px;
+  margin: 0px -10px 10px;
+  border-radius: 2px;
+}
+
+/* Dropdown style */
+select {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  margin-bottom: 1cm;
+}
+
+/* Graph container style */
+#happiness-graph {
+  width: 100%;
+  height: 500px;
+}
+
+/* Paragraph style */
+h4 {
+  font-size: 40;
+  margin-bottom: 1rem;
+}
+
+/* Link style */
+a {
+  color: #0074D9;
+  text-decoration: none;
+}
+
+/* Hover style for link */
+a:hover {
+  text-decoration: underline;
+}
+.my-dropdown {
+  font-size: 16px;
+  border-color: #ccc;
+  background-color: #f9f9f9;
+}
